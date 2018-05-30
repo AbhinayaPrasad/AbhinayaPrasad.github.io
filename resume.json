@@ -9,27 +9,27 @@
     "intro" : {
      
      "summaryHeading" : "Graduate in Computer Science and Engineering",
- "summary" :  "– Cloud infrastructure certified, experience in Web Development - Built Websites using Bootstrap, phpMyAdmin, JavaScript, JQuery, CSS and HTML. Interested in writing, modifying, integrating and testing maintainable software code."
+     "summary" :  "– Cloud infrastructure certified, experience in Web Development - Built Websites using Bootstrap, phpMyAdmin, JavaScript, JQuery, CSS and HTML. Interested in writing, modifying, integrating and testing maintainable software code."
      },
     "skills" : {
-     "skillHeading" : "SUMMARY OF SKILLS",
+    "skillHeading" : "SUMMARY OF SKILLS",
 
      "skillSet" : [
-     	" C",
-     	" C++",
-     	" Java",
-    	" AngularJS",
-    	" MySQL",
-     	" JavaScript",
-    	" JQuery",
-     	" Twitter Bootstrap",
-     	" MS Office",
-     	" Data Srtuctures",
-    	" Algorithms",
-     	" OOPs Concepts",
-     	" DBMS",
-     	" Pseudo Codes",
-     	" Web Technology" ]
+     " C",
+     " C++",
+     " Java",
+     " AngularJS",
+     " MySQL",
+     " JavaScript",
+     " JQuery",
+     " Twitter Bootstrap",
+     " MS Office",
+     " Data Srtuctures",
+     " Algorithms",
+     " OOPs Concepts",
+     " DBMS",
+     " Pseudo Codes",
+     " Web Technology" ]
       },
     
     "education" : {
@@ -40,11 +40,11 @@
      "course1" :  "Courses include : ",
 
 	"coursesAnna" : [
-		"? Data Structures and Algorithms",
-		"? Probability and Queuing Theory",
-		"? Database Management Systems",
-		"? Theory of Computation",
-		"? Principles of Computer Design"
+		" Data Structures and Algorithms",
+		" Probability and Queuing Theory",
+		" Database Management Systems",
+		" Theory of Computation",
+		" Principles of Computer Design"
        ],
             
      "year1"  :  "2011-2015"
